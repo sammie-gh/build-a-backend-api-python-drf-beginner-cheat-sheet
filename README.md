@@ -22,8 +22,8 @@ Use the below Git commands in the Windows Command Prompt or macOS Terminal.
 *Note: This only needs to be done the first time you use Git on your machine*
 
 ```
-git config --global user.email "your@email.com"
-git config --global user.name "Your Name"
+git config --global user.email "evansdrah@email.com"
+git config --global user.name "sammie"
 ```
 
 **Initialise a new Git repository**
